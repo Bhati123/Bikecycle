@@ -7,7 +7,7 @@ int gd=DETECT,gm;
 int i=-300,j=0;
 initgraph(&gd,&gm,"c:\\turboc3\\bgi");
 //setbkcolor(9);
-
+//goog
 while(1)
 {
 setcolor(4);
