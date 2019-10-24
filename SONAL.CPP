@@ -1,6 +1,6 @@
-#include<graphics.h>
-#include<conio.h>
-#include<dos.h>
+#include<graphics>
+#include<conio>
+#include<dos>
 void main()
 {
 int gd=DETECT,gm;
